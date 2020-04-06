@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercise Menu 18A</string>
+    <string name="btn">Sign</string>
+    <string name="al">Password</string>
+    <string name="na">Username</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="btnok">btnok</string>
+</resources>
